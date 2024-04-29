@@ -77,3 +77,16 @@ A max temperature lower than 27 degrees but higher than 21
 Wind speed less than 4.5 m/s
 
 Zero cloudiness
+
+**I was unable to find any hotels in a location that matched the above ideal conditions.  I was forced to modify my ideal weather conditions as follows: 
+
+- A max temperature lower than 28 degrees but higher than 19
+
+- Wind speed less than 5 m/s
+
+- Less then 15 cloudiness
+
+- A humidity lever lower than 60 degrees but higher than 40
+
+  In this challange I leaned on Chat GPT and Git Hub Repositories for assistance but did not lean on them as heavily as in the past. 
+
