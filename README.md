@@ -1,4 +1,6 @@
 # Python-API-Challenge
+![6-2-vacation-free-download-png](https://github.com/KrissinaW/Python-API-Challenge/assets/162597320/f7bad8d3-0696-4280-be2c-3d23684c6b45)
+
 Module 6 Challenge
 
 **Background**
